@@ -4,7 +4,7 @@ Completed the Quantium Software Engineering Job Simulation through Forage in Aug
 
 ## Overview
 
-Built and tested an interactive Dash application to help assess the impact of price changes on sales and profitability.
+Built and tested an interactive Dash application to assess the impact of price changes on sales and profitability.
 
 ## Work Completed
 
